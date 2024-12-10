@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FranciscoRotilli
-- 👀 I’m interested in Front-End Development
+- 👀 I’m interested in Full Stack Development
 - 🎓 I’m currently studying Software Engineering at PUCRS
 - 🌱 I'm also taking a React course at Alura
 - ⚡ Fun fact: I have 2 cats! 🐈‍⬛🐈
