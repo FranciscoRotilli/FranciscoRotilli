@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @FranciscoRotilli
 - 💻 I’m interested in Full Stack Development
 - 🎓 Software Engineering student at PUCRS
-- 🌱 Currently learning React and Python at Alura
+- 🌱 Currently learning React (Next/Vite) and Python (FastAPI)
 - ⚡ Fun fact: I have 2 cats! 🐈‍⬛🐈
 - 🚀 Open to internship opportunities [LinkedIn](https://www.linkedin.com/in/francisco-rotilli/)
 - 🧪 AGES PUCRS (Experimental Software Engineering Agency) [Gitlab](https://tools.ages.pucrs.br/francisco.r)
